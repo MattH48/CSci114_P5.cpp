@@ -1,4 +1,7 @@
-/**/
+/* How to run the program:
+* >g++ CSci114_P5.cpp
+* ./a.out
+*/
 #include <cstdio>
 #include <cstdlib>
 
